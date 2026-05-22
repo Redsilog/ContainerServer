@@ -6,14 +6,13 @@
         {
           "unitNumber": 1,
           "lessons": [
-            { "lessonName": "Addition Basics", "bundlePath": "Grade_1/Unit_1/lesson_101_1" },
-            { "lessonName": "Counting Shapes", "bundlePath": "Grade_1/Unit_1/lesson_101_2" }
+            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-1/UNIT-1/101_1" }
           ]
         },
         {
           "unitNumber": 2,
           "lessons": [
-            { "lessonName": "Substracting Intro", "bundlePath": "Grade_1/Unit_2/lesson_102_1" }
+            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-1/UNIT-2/101_1" }
           ]
         }
       ]
@@ -24,7 +23,7 @@
         {
           "unitNumber": 1,
           "lessons": [
-            { "lessonName": "Place Value", "bundlePath": "Grade_2/Unit_1/lesson_201_1" }
+            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-2/UNIT-1/101_1" }
           ]
         }
       ]
