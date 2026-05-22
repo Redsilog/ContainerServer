@@ -1,0 +1,33 @@
+{
+  "grades": [
+    {
+      "gradeNumber": 1,
+      "units": [
+        {
+          "unitNumber": 1,
+          "lessons": [
+            { "lessonName": "Addition Basics", "bundlePath": "Grade_1/Unit_1/lesson_101_1" },
+            { "lessonName": "Counting Shapes", "bundlePath": "Grade_1/Unit_1/lesson_101_2" }
+          ]
+        },
+        {
+          "unitNumber": 2,
+          "lessons": [
+            { "lessonName": "Substracting Intro", "bundlePath": "Grade_1/Unit_2/lesson_102_1" }
+          ]
+        }
+      ]
+    },
+    {
+      "gradeNumber": 2,
+      "units": [
+        {
+          "unitNumber": 1,
+          "lessons": [
+            { "lessonName": "Place Value", "bundlePath": "Grade_2/Unit_1/lesson_201_1" }
+          ]
+        }
+      ]
+    }
+  ]
+}
