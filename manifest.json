@@ -14,6 +14,12 @@
           "lessons": [
             { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-1/UNIT-2/101_1" }
           ]
+        },
+        {
+          "unitNumber": 3,
+          "lessons": [
+            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-1/UNIT-3/101_1" }
+          ]
         }
       ]
     },
@@ -24,6 +30,18 @@
           "unitNumber": 1,
           "lessons": [
             { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-2/UNIT-1/101_1" }
+          ]
+        },
+        {
+          "unitNumber": 2,
+          "lessons": [
+            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-2/UNIT-2/101_1" }
+          ]
+        },
+        {
+          "unitNumber": 3,
+          "lessons": [
+            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-2/UNIT-3/101_1" }
           ]
         }
       ]
