@@ -6,7 +6,9 @@
         {
           "unitNumber": 1,
           "lessons": [
-            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-1/UNIT-1/101_1" }
+            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-1/UNIT-1/101_1" },
+              { "lessonName": "Properties of Metals", "bundlePath": "GRADE-1/UNIT-1/101_2" },
+              { "lessonName": "Windy Weather", "bundlePath": "GRADE-1/UNIT-1/101_3" }
           ]
         },
         {
