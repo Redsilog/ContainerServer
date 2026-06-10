@@ -7,20 +7,14 @@
           "unitNumber": 1,
           "lessons": [
             { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-1/UNIT-1/101_1" },
-              { "lessonName": "Properties of Metals", "bundlePath": "GRADE-1/UNIT-1/101_2" },
-              { "lessonName": "Windy Weather", "bundlePath": "GRADE-1/UNIT-1/101_3" }
+            { "lessonName": "Properties of Metals", "bundlePath": "GRADE-1/UNIT-1/102" }
           ]
         },
         {
           "unitNumber": 2,
           "lessons": [
-            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-1/UNIT-2/101_1" }
-          ]
-        },
-        {
-          "unitNumber": 3,
-          "lessons": [
-            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-1/UNIT-3/101_1" }
+            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-1/UNIT-1/101_1" },
+            { "lessonName": "Properties of Metals", "bundlePath": "GRADE-1/UNIT-1/102" }
           ]
         }
       ]
@@ -31,19 +25,15 @@
         {
           "unitNumber": 1,
           "lessons": [
-            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-2/UNIT-1/101_1" }
+            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-2/UNIT-1/101_1" },
+            { "lessonName": "Properties of Metals", "bundlePath": "GRADE-2/UNIT-1/102" }
           ]
         },
         {
           "unitNumber": 2,
           "lessons": [
-            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-2/UNIT-2/101_1" }
-          ]
-        },
-        {
-          "unitNumber": 3,
-          "lessons": [
-            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-2/UNIT-3/101_1" }
+            { "lessonName": "Living or Non-Living", "bundlePath": "GRADE-2/UNIT-1/101_1" },
+            { "lessonName": "Properties of Metals", "bundlePath": "GRADE-2/UNIT-1/102" }
           ]
         }
       ]
