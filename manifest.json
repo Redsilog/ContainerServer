@@ -25,7 +25,8 @@
         {
           "unitNumber": 1,
           "lessons": [
-            { "lessonName": "Harmful Changes in Materials", "bundlePath": "GRADE-2/UNIT-1/103" }
+            { "lessonName": "Harmful Changes in Materials", "bundlePath": "GRADE-2/UNIT-1/103" },
+            { "lessonName": "Science Processes Skills", "bundlePath": "GRADE-2/UNIT-1/104" }
           ]
         },
         {
